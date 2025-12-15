@@ -179,24 +179,3 @@ This project was developed as part of an AI course assignment to demonstrate:
 
 
 **Made with ❤️ and AI**
-```
-
----
-
-## **Additional Files to Add:**
-
-### **1. Create `.gitignore` file:**
-```
-# API Keys
-.env
-config.json
-*.key
-
-# Flowise
-flowise-data/
-node_modules/
-
-# System files
-.DS_Store
-Thumbs.db
-```
